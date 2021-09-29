@@ -1,10 +1,10 @@
 ---
 title: Example Event
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Emisíón 21 de septiembre
+event_url: 
 
-location: Wowchemy HQ
+location: Facultad de ciencias
 address:
   street: Investigación cientifica
   city: Ciudad de México
@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "9na emisión - Bienvenida no tan buena onda - Final de temporada"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
