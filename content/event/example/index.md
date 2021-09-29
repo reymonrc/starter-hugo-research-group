@@ -6,9 +6,9 @@ event_url: https://example.org
 
 location: Wowchemy HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: Investigación cientifica
+  city: Ciudad de México
+  region: CDMX
   postcode: '94305'
   country: United States
 
@@ -17,12 +17,12 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-09-21T20:00:00Z"
+date_end: "2021-09-21T21:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-09-21T23:00:00Z"
 
 authors: []
 tags: []
@@ -31,13 +31,13 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/VXUtdS2CAog"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -54,10 +54,22 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+Programa: Bienvenida no tan buena onda
+🍄Información: 
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+🌻Efemérides 21 de Septiembre
+🌻Reportaje indices de reprobación
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+🍄Análisis: 
+🌻Mesa de análisis sobre problemas estudiantiles en la fac: 
+Angélica Mercado
+Eduardo Adame
+Jann Macías
+Daniela Morales
+
+🍄Plus:
+Entrevista sobre salud mental con Sol Fernández
+Opciones de apoyo psicológico
+
+🍄Editorial:
+Si no entienden esto, crucen el circuito y váyanse a Ingeniería
