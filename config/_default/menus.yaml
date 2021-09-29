@@ -11,10 +11,10 @@ main:
     url: people
     weight: 30
   - name: Documentos
-    url: event
+    url: publication
     weight: 40
   - name: Estas ruinas
-    url: publication
+    url: event
     weight: 25
   - name: Contacto y amigos
     url: contact
