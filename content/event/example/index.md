@@ -1,7 +1,7 @@
 ---
-title: Example Event
+title: Emisíón 21 de septiembre
 
-event: Emisíón 21 de septiembre
+event: Estas ruinas que ves.
 event_url: 
 
 location: Facultad de ciencias
@@ -12,8 +12,8 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example event.
-abstract: "9na emisión - Bienvenida no tan buena onda - Final de temporada"
+summary: 9na emisión.
+abstract: "Bienvenida no tan buena onda - Final de temporada"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
